@@ -1,4 +1,4 @@
-# :family: Telco Churn EDA Project 
+# :calling: Telco Churn EDA Project 
 
 ![](https://www.actioncoachlisboa.pt/wp-content/uploads/2019/11/ActionCOACHLisbaoa_Servic%CC%A7o-ao-Cliente.jpg)
 
