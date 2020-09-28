@@ -38,8 +38,6 @@ I made an exploratory data analysis project using this data set.
 
 ## Content
 
-It's a classic dataset of Good and Bad Loans
-
 * Load and Check Data
 * Missing Value Control
 * Target Visualization
