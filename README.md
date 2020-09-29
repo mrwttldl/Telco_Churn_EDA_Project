@@ -45,3 +45,4 @@ I made an exploratory data analysis project using this data set.
 * Data Visualization
 * Data Transformation
 * Feature Engineering
+* Report
