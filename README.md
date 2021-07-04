@@ -1,4 +1,4 @@
-# :calling: Telco Churn EDA Project 
+## :calling: Telco Churn EDA Project 
 
 ![](https://www.actioncoachlisboa.pt/wp-content/uploads/2019/11/ActionCOACHLisbaoa_Servic%CC%A7o-ao-Cliente.jpg)
 
@@ -12,7 +12,7 @@ retention success rates and identify strategies for improvement.
 I made an exploratory data analysis project using this data set.
 
 
-## Dataset Information
+## :white_check_mark: Dataset Information
 
 1. **customerID: 0**: Customer ID 
 1. **gender**: Whether the customer is a male or a female
@@ -36,7 +36,7 @@ I made an exploratory data analysis project using this data set.
 1. **TotalCharges**: the amount paid by the person per month
 1. **Churn**:  (Yes, No)
 
-## Content
+## :art: Content
 
 * Load and Check Data
 * Missing Value Control
